@@ -9,6 +9,8 @@ Assuming that you have unzipped the code or pulled from github
 
 Executable is deployed to build/libs folder and can be executed as follows
     $ java -jar myob.coding-0.0.1-SNAPSHOT.jar {input file name} {output file name}
+
+WARNING: input and output file names must exist in the system. Output file is overwritten every time the program runs.
     
 # Assumptions
 
